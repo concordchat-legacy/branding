@@ -1,10 +1,11 @@
 # Brand
 The Concord brand is manufactured to look sleek and minimalistic,
-We're keen on keeping thing's to quality and to code,
-so if you do end up using the Concord brand somewhere please send it our way for approval.
+
+We're also keen on keeping things quality.
+If you're gonna use the Concord brand somewhere, please keep it tasteful and send it our way for approval.
 
 # Word Mark
-The word mark should be the logo shown on banners, embeds, thumbnails and anything related.
+The word mark should be the logo shown on banners, embeds, thumbnails, and anything related.
 
 <p float="left" align="center">
   <img src="./wordmarks/darkmode.png" width="300" />
@@ -32,7 +33,7 @@ Please do not edit, change, distort, recolor, or reconfigure the Concord Logo(s)
 
 <span style="color:#7289DA">Blurple: #7289DA | 56, 43, 0, 0</span>
 
-<spam style="color:#2D2D2D">NitroDB Black</span>
+<spam style="color:#2D2D2D">NitroDB Black: #2D2D2D | 0, 0, 0, 82</span>
 
 <sup><sub>Might not be visible on some themes</sub></sup>
 
