@@ -24,7 +24,7 @@ brand--it represents our "*product*" in a professional and non-inclusive manner.
 # Fonts
 Currently, all of our wordmarks use Helvetica Neue 95 Black.
 
-# Distortion/Modifcation
+# Distortion/Modification
 Please do not edit, change, distort, recolor, or reconfigure the Concord Logo(s).
 
 # Colors
