@@ -14,7 +14,7 @@ The word mark should be the logo shown on banners, embeds, thumbnails and anythi
 
 # Mascot
 Our mascot is the main part of our 
-brand--it removes the need for words on a PFP on social media sites and essentially everywhere else.
+brand--it represents our "*product*" in a professional and non-inclusive manner.
 
 <p float="left" align="center">
   <img src="./mascot.png" width="300" />
