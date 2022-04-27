@@ -18,7 +18,7 @@ Our mascot is the main part of our
 brand--it represents our "*product*" in a professional and non-inclusive manner.
 
 <p float="left" align="center">
-  <img src="./mascot.png" width="300" />
+  <img src="./mascot.png" width="450" />
 </p>
 
 # Fonts
