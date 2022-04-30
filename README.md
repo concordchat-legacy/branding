@@ -5,7 +5,7 @@ We're also keen on keeping things quality.
 If you're gonna use the Concord brand somewhere, please keep it tasteful and send it our way for approval.
 
 # Word Mark
-The word mark should be the logo shown on banners, embeds, thumbnails, and anything related.
+Please do not edit, change, distort, recolor, or reconfigure the Concord Logo.
 
 <p float="left" align="center">
   <img src="./wordmarks/darkmode.png" width="300" />
@@ -14,8 +14,7 @@ The word mark should be the logo shown on banners, embeds, thumbnails, and anyth
 </p>
 
 # Mascot
-Our mascot is the main part of our 
-brand--it represents our "*product*" in a professional and non-inclusive manner.
+Please do not edit, change, distort, recolor, or reconfigure the Concord Logo.
 
 <p float="left" align="center">
   <img src="./mascot.png" width="450" />
@@ -23,9 +22,6 @@ brand--it represents our "*product*" in a professional and non-inclusive manner.
 
 # Fonts
 Currently, all of our wordmarks use Helvetica Neue 95 Black.
-
-# Distortion/Modification
-Please do not edit, change, distort, recolor, or reconfigure the Concord Logo(s).
 
 # Colors
 
