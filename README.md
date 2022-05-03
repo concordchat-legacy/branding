@@ -24,7 +24,7 @@ Currently, all of our wordmarks use Helvetica Neue 95 Black.
 
 # Colors
 
-<span style="color:#57D1E5">Concord Blue: #57D1E5 | 56, 8, 0, 10</span>
+<span style="color:#57D1E5">Redux Blue: #57D1E5 | 56, 8, 0, 10</span>
 
 <span style="color:#7289DA">Blurple: #7289DA | 56, 43, 0, 0</span>
 
