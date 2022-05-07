@@ -1,12 +1,12 @@
 # Brand
-Concord is a brand which focuses to be sleek and minimalistic, that said we are keen on keeping things quality.
+Drogon is a brand which focuses to be sleek, minimalistic and fun. That said we are keen on keeping things quality.
 If your gonna use our art in for something, please keep it tasteful and send it our way for approval.
 
 # Where can I download these?
-All artwork shown here and more are given on the [github](https://github.com/concordchat/branding).
+All artwork shown here and more are given on the [github](https://github.com/drogonapp/branding).
 
 # Logo
-Please do not edit, change, distort, recolor, or reconfigure the Concord Logo.
+Please do not edit, change, distort, recolor, or reconfigure the Drogon Logo.
 
 <p float="left" align="center">
   <img src="./wordmarks/darkmode.svg" width="300" />
@@ -14,7 +14,7 @@ Please do not edit, change, distort, recolor, or reconfigure the Concord Logo.
 </p>
 
 # Mascot
-Please do not edit, change, distort, recolor, or reconfigure the Concord Mascot.
+Please do not edit, change, distort, recolor, or reconfigure the Drogon Mascot.
 
 <p float="left" align="center">
   <img src="./mascot.svg" width="450" />
